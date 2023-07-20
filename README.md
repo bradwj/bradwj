@@ -1,6 +1,6 @@
 ### Hey there, I'm Brad! 👋
 Interested in all things technology!   
-Most of my experience is in Full Stack software development, but I am also interested in backend development and cybersecurity.
+Most of my experience is in Full Stack software development, but I am mainly interested in backend development and cybersecurity.
 
 - 🔭 I’m currently working as a Software Engineer Intern at Fidelity Investments
 - 🌱 I’m currently learning penetration testing and offensive security
