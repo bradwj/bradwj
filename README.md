@@ -4,7 +4,7 @@ Most of my experience is in Full Stack software development, but I am mainly int
 
 - 🔭 I’m currently working as a Software Engineer Intern at Fidelity Investments
 - 🌱 I’m currently learning penetration testing and offensive security
-- ⚡ Fun fact: I love to play the drums, and I've been playing for the past 10 years!
+- ⚡ Fun fact: I have been playing the drums for over 10 years! 🥁
 
 <br>
 
