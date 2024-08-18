@@ -8,7 +8,7 @@ Most of my experience is in Full Stack software development, but I am mainly int
 
 <br>
 
-[![My GitHub Language Stats](https://github-readme-stats-beta-three-44.vercel.app/api/top-langs/?username=bradwj&langs_count=8&layout=compact&hide=HTML,SCSS,CSS,Less&theme=tokyonight&size_weight=0.25&count_weight=0.75&card_width=350)]()
+[![My GitHub Language Stats](https://github-readme-stats-beta-three-44.vercel.app/api/top-langs/?username=bradwj&langs_count=8&layout=compact&hide=HTML,SCSS,CSS,Less,Cython&theme=tokyonight&size_weight=0.25&count_weight=0.75&card_width=350)]()
 [![My GitHub Stats](https://github-readme-stats-beta-three-44.vercel.app/api/?username=bradwj&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)]()
 
 <!--
